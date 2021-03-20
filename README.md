@@ -3,4 +3,4 @@ Code for Paper in CVPR2021,'Weakly Supervised Video Salient Object Detection' Wa
 
 
 # Dataset
-We provide the proposed scribble annotations for DAVIS and DAVSOD.\url{https://github.com/wangbo-zhao/WSVSOD}
+We provide the proposed scribble annotations for DAVIS and DAVSOD.
