@@ -7,3 +7,8 @@ We provide the proposed scribble annotations for DAVIS and DAVSOD.
 
 ## Code
 The code is comming soon.🚀
+
+## Acknowledgement
+
+[Weakly-Supervised Salient Object Detection via Scribble Annotations](https://github.com/JingZhang617/Scribble_Saliency)
+
