@@ -4,7 +4,7 @@
 
 ![](https://github.com/wangbo-zhao/WSVSOD/blob/main/image.png?raw=true])
 ## Dataset
-We provide the proposed scribble annotations for DAVIS and DAVSOD in [Google Drive](https://drive.google.com/drive/folders/1gZZQ_JgwcoH6oHMBCcEZxv3iBQrOAP36?usp=sharing) and [Baidu Drive](https://pan.baidu.com/s/11zN_MuYaV7l_p36Ba-FO2Q)(86rd). [SSOD](https://github.com/JingZhang617/Scribble_Saliency) provides scribble annotations for DUTS
+We provide the proposed scribble annotations for DAVIS and DAVSOD in [Google Drive](https://drive.google.com/drive/folders/1gZZQ_JgwcoH6oHMBCcEZxv3iBQrOAP36?usp=sharing) and [Baidu Drive](https://pan.baidu.com/s/11zN_MuYaV7l_p36Ba-FO2Q)(86rd). [SSOD](https://github.com/JingZhang617/Scribble_Saliency) provides scribble annotations for DUTS.
 
 ## Code
 The code is comming soon.🚀🚀🚀
