@@ -10,7 +10,7 @@ The code is comming soon.🚀
 
 ## Acknowledgement
 
-[Weakly-Supervised Salient Object Detection via Scribble Annotations](https://github.com/JingZhang617/Scribble_Saliency)\\
-[Shifting More Attention to Video Salient Object Detectio](https://github.com/DengPingFan/DAVSOD)\\
-[Paying Attention to Video Object Pattern Understanding](https://github.com/wenguanwang/AGS)\\
+[Weakly-Supervised Salient Object Detection via Scribble Annotations](https://github.com/JingZhang617/Scribble_Saliency)  
+[Shifting More Attention to Video Salient Object Detectio](https://github.com/DengPingFan/DAVSOD)  
+[Paying Attention to Video Object Pattern Understanding](https://github.com/wenguanwang/AGS)  
 
