@@ -1,6 +1,6 @@
 # WSVSOD
 🔥🔥🔥Code for Paper in CVPR2021,'Weakly Supervised Video Salient Object Detection' Wangbo Zhao, Jing Zhang, Long Li, Nick Barnes, Nian Liu, Junwei Han.
-🔥🔥🔥
+🔥🔥🔥 ![Link](https://arxiv.org/abs/2104.02391)
 
 ![](https://github.com/wangbo-zhao/WSVSOD/blob/main/image.png?raw=true])
 ## Dataset
