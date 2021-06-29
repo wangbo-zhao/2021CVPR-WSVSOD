@@ -1,5 +1,3 @@
-[![Phodal's Article](http://brand.phodal.com/shields/works-small.svg)](https://www.phodal.com/)
-
 # WSVSOD
 🔥🔥🔥Code for Paper in CVPR2021, [Weakly Supervised Video Salient Object Detection](https://arxiv.org/abs/2104.02391) Wangbo Zhao, Jing Zhang, Long Li, Nick Barnes, Nian Liu, Junwei Han.
 🔥🔥🔥 
