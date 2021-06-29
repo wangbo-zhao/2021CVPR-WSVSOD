@@ -9,6 +9,10 @@ We provide the proposed scribble annotations for DAVIS and DAVSOD in [Google Dri
 ## Code
 The code is comming soon.🚀🚀🚀
 
+
+## Evaluation
+We borrow the evaluation code from DAVSOD(https://github.com/DengPingFan/DAVSOD).
+
 ## Acknowledgement
 
 [Weakly-Supervised Salient Object Detection via Scribble Annotations](https://github.com/JingZhang617/Scribble_Saliency)  
