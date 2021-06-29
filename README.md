@@ -11,7 +11,7 @@ The code is comming soon.🚀🚀🚀
 
 
 ## Evaluation
-We borrow the evaluation code from [DAVSOD](https://github.com/DengPingFan/DAVSOD).
+We borrow the evaluation code from [DAVSOD](https://github.com/DengPingFan/DAVSOD), which is based on MATLAB.
 
 ## Acknowledgement
 
