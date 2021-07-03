@@ -10,8 +10,7 @@ We provide the proposed scribble annotations for DAVIS and DAVSOD in [Google Dri
 The code is comming soon.🚀🚀🚀
 
 ## Saliency Map
-Here, we provide saliency maps generated from "Our" in the paper. [Baidu Drive](https://pan.baidu.com/s/1k8cfCBM4g1flM_dZ1OSt5A)(iv0d) 
-提取码：iv0d).
+Here, we provide saliency maps generated from "Our" in the paper. [Baidu Drive](https://pan.baidu.com/s/1k8cfCBM4g1flM_dZ1OSt5A)(iv0d).
 
 
 
