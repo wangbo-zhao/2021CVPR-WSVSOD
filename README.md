@@ -11,10 +11,13 @@ First,
 ```
 python pretrain.py
 ```
+to pretrain the model on DUTS.
+
 Then, 
 ```
 python finetune.py
 ```
+to finetune the model on DAVSOD and DAVIS.
 
 ## Pretrained Models
 We provide the pretrained "Our" model in [Baidu Drive]()().
