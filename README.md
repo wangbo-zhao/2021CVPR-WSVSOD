@@ -1,5 +1,5 @@
 # WSVSOD
-🔥🔥🔥Code for Paper in CVPR2021, [Weakly Supervised Video Salient Object Detection](https://arxiv.org/abs/2104.02391) Wangbo Zhao, Jing Zhang, Long Li, Nick Barnes, Nian Liu, Junwei Han.
+🔥🔥🔥Code for Paper in CVPR2021, [Weakly Supervised Video Salient Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Weakly_Supervised_Video_Salient_Object_Detection_CVPR_2021_paper.pdf) Wangbo Zhao, Jing Zhang, Long Li, Nick Barnes, Nian Liu, Junwei Han.
 🔥🔥🔥 
 
 ![](https://github.com/wangbo-zhao/WSVSOD/blob/main/image.png?raw=true])
@@ -20,7 +20,7 @@ python finetune.py
 to finetune the model on DAVSOD and DAVIS.
 
 ## Pretrained Models
-We provide the pretrained "Our" model in [Baidu Drive]()().
+We provide the pretrained "Our" model in [Baidu Drive](https://pan.baidu.com/s/14X4pknWrnP_KQ9oG1jPSBA)(30ja).
 
 ## Saliency Map
 Here, we provide saliency maps generated from "Our" in the paper. [Baidu Drive](https://pan.baidu.com/s/1k8cfCBM4g1flM_dZ1OSt5A)(iv0d).
