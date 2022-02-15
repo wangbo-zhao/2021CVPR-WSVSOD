@@ -6,8 +6,18 @@
 ## Dataset
 We provide the proposed scribble annotations for DAVIS and DAVSOD in [Google Drive](https://drive.google.com/drive/folders/1gZZQ_JgwcoH6oHMBCcEZxv3iBQrOAP36?usp=sharing) and [Baidu Drive](https://pan.baidu.com/s/11zN_MuYaV7l_p36Ba-FO2Q)(86rd). [SSOD](https://github.com/JingZhang617/Scribble_Saliency) provides scribble annotations for DUTS.
 
-## Pretrained Models
+## Code
+First,
+```
+python pretrain.py
+```
+Then, 
+```
+python finetune.py
+```
 
+## Pretrained Models
+We provide the pretrained "Our" model in [Baidu Drive]()().
 
 ## Saliency Map
 Here, we provide saliency maps generated from "Our" in the paper. [Baidu Drive](https://pan.baidu.com/s/1k8cfCBM4g1flM_dZ1OSt5A)(iv0d).
